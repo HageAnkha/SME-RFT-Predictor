@@ -20,7 +20,7 @@ It uses Logistic Regression and provides both prediction and probability for new
   * scikit-learn
   * ipywidgets (for Colab dashboard)
 
-# Mounting Goole Drive
+# Mounting Google Drive
 from google.colab import drive
 drive.mount('/content/drive')
 
